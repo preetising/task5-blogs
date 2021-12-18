@@ -1,0 +1,34 @@
+:root {  
+    --primary-color:#ADD8E6.; 
+} 
+body {
+    padding:1rem;font-family: 'EB Garamond', serif;
+    text-overflow: clip;
+    font-size:1.4rem;
+    font-style: italic;
+    padding:1rem;
+    background-color: burlywood;
+
+}
+
+
+.container {
+    padding: 0rem 1rem;
+}
+.container-center {
+    
+    font-size: x-large;
+    max-width: 900px;
+    width: 1000%;
+    margin: auto;
+}
+.h1{
+    font-size: 1rem;;  
+}
+
+
+
+
+
+
+

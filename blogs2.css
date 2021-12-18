@@ -1,0 +1,43 @@
+
+:root {  
+    --primary-color:#ADD8E6.; 
+} 
+body {
+    padding:1rem;font-family: 'EB Garamond', serif;
+    font-size:1.4rem;
+    font-style: italic;
+    padding:1rem;
+    background-color:lightskyblue;
+    font-size: bold;
+    padding: 1rem;
+    align-items: center;
+
+}
+.container {
+    padding: 0rem 1rem;
+}
+.container-center {
+
+    text-align: center; 
+    max-width: 900px;
+    margin: auto;
+
+}
+.p {
+    box-sizing: border-box;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.h1{
+    font-size: 1rem;;  
+}
+
+
+
+
+
+
+
